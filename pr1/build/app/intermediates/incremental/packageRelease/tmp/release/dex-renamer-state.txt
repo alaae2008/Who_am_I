@@ -1,0 +1,4 @@
+#Thu Jan 26 23:25:23 TRT 2023
+base.0=C\:\\Users\\alaae\\Desktop\\ios\\pr1\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
